@@ -1,0 +1,7 @@
+assets/img/*.jpg
+assets/img/*.png
+!assets/img/dcm-icon.png
+!assets/img/dental-centar-mirkovic-12.jpg
+!assets/img/dental-centar-mirkovic-22.jpg
+!assets/img/sinisa-mirkovic-1.jpg
+!assets/img/dr-milana-mirkovic.jpg

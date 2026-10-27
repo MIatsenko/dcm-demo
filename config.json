@@ -1,0 +1,102 @@
+{
+  "out": "/Users/mihail/delamain/projects/dcm-demo",
+  "name": "Dental centar Mirković",
+  "kicker": "Stražilovska 14 · Novi Sad",
+  "title": "Dental centar Mirković — stomatologija u Novom Sadu",
+  "description": "Dental centar Mirković, Stražilovska 14, Novi Sad. Opšta stomatologija, oralna hirurgija sa implantologijom, protetika i dečija stomatologija.",
+  "brand": "#16443a",
+  "brand2": "#0d2b25",
+  "accent": "#d8b45f",
+  "logo": "assets/img/dcm-icon.png",
+  "hero": "assets/img/dental-centar-mirkovic-12.jpg",
+  "h1": "Stomatologija kojoj se vraćate sa poverenjem.",
+  "lead": "Opšta stomatologija, oralna hirurgija sa implantologijom, protetika i dečija stomatologija — na jednom mestu, u centru Novog Sada.",
+  "phone": "021 38 22 824",
+  "phone_link": "+381213822824",
+  "facts": [
+    [
+      "2019.",
+      "godina osnivanja centra"
+    ],
+    [
+      "25",
+      "godina prakse pre toga"
+    ],
+    [
+      "3",
+      "ordinacije"
+    ],
+    [
+      "2",
+      "parking mesta ispred"
+    ]
+  ],
+  "services_title": "Devet oblasti lečenja",
+  "services_lead": "Od konsultativnog pregleda do implantologije — svaka oblast kod lekara koji se njome bavi.",
+  "typographic_services": true,
+  "services": [
+    {
+      "title": "Stomatološki konsultativni pregledi",
+      "text": "Prvi razgovor, pregled i plan lečenja sa procenom trajanja i redosleda postupaka."
+    },
+    {
+      "title": "Estetska restaurativna stomatologija",
+      "text": "Nadoknada i oblikovanje zuba materijalima u boji zuba, uz očuvanje zdravog tkiva."
+    },
+    {
+      "title": "Lečenje zuba — endodoncija",
+      "text": "Lečenje kanala korena, sa kontrolom na rendgenu."
+    },
+    {
+      "title": "Oralna hirurgija",
+      "text": "Vađenje zuba i korena, hirurške intervencije u ordinaciji."
+    },
+    {
+      "title": "Oralna implantologija",
+      "text": "Ugradnja implantata i augmentacija kosti kod specijaliste oralne hirurgije."
+    },
+    {
+      "title": "Parodontologija",
+      "text": "Lečenje desni i potpornog tkiva zuba."
+    },
+    {
+      "title": "Stomatološka protetika",
+      "text": "Krunice, mostovi i proteze — izrada po otisku i probi."
+    },
+    {
+      "title": "Dečija i preventivna stomatologija",
+      "text": "Pregledi, preventiva i lečenje kod specijaliste dečije stomatologije."
+    },
+    {
+      "title": "Ortopedija vilica",
+      "text": "Korekcija položaja zuba i vilica aparatima."
+    }
+  ],
+  "team": [
+    {
+      "img": "assets/img/sinisa-mirkovic-1.jpg",
+      "name": "Prof. dr Siniša Mirković",
+      "role": "Doktor stomatologije, specijalista oralne hirurgije sa implantologijom"
+    },
+    {
+      "img": "assets/img/dr-milana-mirkovic.jpg",
+      "name": "Dr Milana Mirković",
+      "role": "Doktor stomatologije, specijalista oralne hirurgije"
+    }
+  ],
+  "gallery": [
+    {
+      "img": "assets/img/dental-centar-mirkovic-12.jpg",
+      "alt": "Ordinacija"
+    },
+    {
+      "img": "assets/img/dental-centar-mirkovic-22.jpg",
+      "alt": "Ordinacija"
+    }
+  ],
+  "address": "Stražilovska 14, 21000 Novi Sad",
+  "email": "info@dentalcentarmirkovic.com",
+  "note": "Pregled se zakazuje telefonom. Mobilni broj je za brži dogovor termina.",
+  "box_text": "Nalazimo se u Stražilovskoj 14, sa parking mestima ispred ordinacije. Za prvi dolazak dovoljan je telefonski poziv.",
+  "map_query": "Stra%C5%BEilovska%2014%20Novi%20Sad"
+}
